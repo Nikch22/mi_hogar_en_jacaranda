@@ -474,6 +474,7 @@ color: #FFF0D9;
 /*========== FOOTER ==========*/
 .footer__container{
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  display: contents;
   text-align: center;
 }
 
